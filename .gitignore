@@ -1,0 +1,4 @@
+envs/
+frontend/node_modules/
+venv/
+static/
